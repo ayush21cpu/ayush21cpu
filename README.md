@@ -11,7 +11,7 @@ Dive into a realm where pixels paint dreams, and lines of code weave the fabric 
 <a href="mailto:ayush784490@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-ayush784490@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayush784490@gmail.com" alt="Gmail Badge">
 </a>
-<a href="https://www.linkedin.com/in/21_ayush_yadav" target="_blank">
+<a href="https://www.linkedin.com/in/21-ayush-yadav" target="_blank">
   <img src="https://img.shields.io/badge/-@ayushYadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/21-ayush-yadav" alt="Linkedin Badge">
 </a>
    </p>
