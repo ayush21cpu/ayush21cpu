@@ -20,10 +20,10 @@ Welcome to the realm of mobile marvels, where pixels dance to the rhythm of inno
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;"src="https://cdn.iconscout.com/icon/free/png-512/free-kotlin-2038873-1720086.png?f=webp&w=512" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/518/518705.png"/>
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;"src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;"src="https://cdn.iconscout.com/icon/free/png-512/free-kotlin-2038873-1720086.png?f=webp&w=512" />
 <img align="left" alt="Html" width="30px" style="padding-right:10px;"src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png"/>
