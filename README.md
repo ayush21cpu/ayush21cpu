@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ayush Yadav
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Digital Craftsman (Mobile Developer/Web Developer/Creator)`**
 
 Welcome to the realm of mobile marvels, where pixels dance to the rhythm of innovation and code breathes life into dreams. As a passionate mobile developer, I invite you to join me in crafting captivating digital experiences that inspire, delight, and leave an indelible mark on the world.
 
