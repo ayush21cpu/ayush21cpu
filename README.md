@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-Dive into a realm where pixels paint dreams, and lines of code weave the fabric of tomorrow's reality. Join me on a journey of boundless creativity and relentless innovation as we shape the digital landscape with passion and precision.
+Welcome to the realm of mobile marvels, where pixels dance to the rhythm of innovation and code breathes life into dreams. As a passionate mobile developer, I invite you to join me in crafting captivating digital experiences that inspire, delight, and leave an indelible mark on the world.
 
    <p align="left">
       <a href="https://github.com/ayush21cpu" title="Don't think me as stupid just because i am givng github link inside github (that is to increase profile view counts...😜)" target="_blank">
